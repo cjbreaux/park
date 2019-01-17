@@ -1,13 +1,18 @@
 img {
     width: 40%;
     height: auto;
+}
+.border {
     padding: 5%;
+    border: red solid 10px;
+    margin: 5px;
+    padding: 0px;
 }
 
 ul {
   list-style-type: none;
 }
 
-.small, .medium, .big {
+/* .small, .medium, .big {
   display: none;
-}
+} */
